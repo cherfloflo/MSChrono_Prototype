@@ -1,3 +1,3 @@
 # MSChrono_Prototype
-![Photo du prototype 1](photos/WhatsApp_Image_2024-10-31_à_23.32.01.jpg)
-![Photo du prototype 2](photos/WhatsApp_Image_2024-11-01_à_11.13.11.jpg)
+![Prototype 1](photos/WhatsApp%20Image%202024-10-31%20à%2023.32.01_362fecaa.jpg)
+![Prototype 2](photos/WhatsApp%20Image%202024-11-01%20à%2011.13.11_6235cbca.jpg)
